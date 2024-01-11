@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Charles Bedrosian and my GitHub alias is `charlesbedrosian`.
+My name is Charles Bedrosian and my GitHub alias is charlesbedrosian.
 
 ## Optional Next Steps
 
